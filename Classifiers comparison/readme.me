@@ -1,0 +1,1 @@
+Comparing the accuracy of different classifiers on a dataset from UCI Machine Learning Repository.
